@@ -1,0 +1,20 @@
+{
+  "name": "alfred-ip",
+  "version": "0.0.9",
+  "description": "get your ip address",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ip",
+    "alfred",
+    "workflow"
+  ],
+  "author": "newJcole",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "alfy": "^1.1.0"
+  }
+}
